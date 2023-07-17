@@ -1,4 +1,6 @@
-
+### 8.이미지 넣기
+[PCWK](https://cafe.daum.net/pcwk)
+![여름](https://github.com/ODH125/markdown20230717/blob/main/abc.jpeg)
 
 ### 6. 가로선
 화면 전체를 가로지르는 가로선: -,* 을 3개이상
